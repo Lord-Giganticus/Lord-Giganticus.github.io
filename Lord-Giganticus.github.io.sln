@@ -11,6 +11,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FastDL", "FastDL", "{55CAC481-B651-47DE-B2C5-0E602FB1632C}"
+	ProjectSection(SolutionItems) = preProject
+		FastDL\index.html = FastDL\index.html
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tf2", "tf2", "{B5FDFC54-61EF-408B-B468-22BCF59C8FEF}"
 EndProject
