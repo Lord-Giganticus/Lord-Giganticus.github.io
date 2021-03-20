@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1A69D9A7-4BC4-468F-96BE-E38CCDB0E67F}"
+	ProjectSection(SolutionItems) = preProject
+		_config.yml = _config.yml
+		index.md = index.md
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FastDL", "FastDL", "{55CAC481-B651-47DE-B2C5-0E602FB1632C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tf2", "tf2", "{B5FDFC54-61EF-408B-B468-22BCF59C8FEF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "maps", "maps", "{191F1194-A80F-414B-B8AC-A3F37CE36D6D}"
+	ProjectSection(SolutionItems) = preProject
+		FastDL\tf2\maps\af_tf2_party_a12.bsp.bz2 = FastDL\tf2\maps\af_tf2_party_a12.bsp.bz2
+		FastDL\tf2\maps\boss_jevil_v4a.bsp.bz2 = FastDL\tf2\maps\boss_jevil_v4a.bsp.bz2
+		FastDL\tf2\maps\cp_clash_royale.bsp.bz2 = FastDL\tf2\maps\cp_clash_royale.bsp.bz2
+		FastDL\tf2\maps\koth_tf2craps_b1.bsp.bz2 = FastDL\tf2\maps\koth_tf2craps_b1.bsp.bz2
+		FastDL\tf2\maps\mvm_example.bsp.bz2 = FastDL\tf2\maps\mvm_example.bsp.bz2
+		FastDL\tf2\maps\my_world_x9b.bsp.bz2 = FastDL\tf2\maps\my_world_x9b.bsp.bz2
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{55CAC481-B651-47DE-B2C5-0E602FB1632C} = {1A69D9A7-4BC4-468F-96BE-E38CCDB0E67F}
+		{B5FDFC54-61EF-408B-B468-22BCF59C8FEF} = {55CAC481-B651-47DE-B2C5-0E602FB1632C}
+		{191F1194-A80F-414B-B8AC-A3F37CE36D6D} = {B5FDFC54-61EF-408B-B468-22BCF59C8FEF}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3F5DB87-267C-488B-BAF0-72FE5C5B3440}
+	EndGlobalSection
+EndGlobal
